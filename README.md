@@ -17,6 +17,8 @@ My name is Noah and I am a recent graduate of Tech Elevator's full-stack Java bo
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azure/azure-original-wordmark.svg" width="40" height="40">
 </div>
 
 ---
